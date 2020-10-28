@@ -1,13 +1,13 @@
 # kshitij86
 
 ### Find me on
-![](https://img.shields.io/badge/Github--informational?style=social&logo=github&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/Linkedin--informational?style=social&logo=linkedin&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/Dribbble--informational?style=social&logo=dribbble&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/Hackerrank-kshitij_kotasth1-informational?style=social&logo=hackerrank&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/LeetCode-kshitij86123343-informational?style=social&logo=leetcode&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/Codeforces-akane86-informational?style=social&logo=codeforces&logoColor=black&Color=black&color=2bbc8a)
-![](https://img.shields.io/badge/Codechef-klondike123-informational?style=social&logo=codechef&logoColor=black&Color=black&color=2bbc8a)
+![](https://img.shields.io/badge/Github--informational?style=social&logo=github&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Linkedin--informational?style=social&logo=linkedin&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Dribbble--informational?style=social&logo=dribbble&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Hackerrank-kshitij_kotasth1-informational?style=social&logo=hackerrank&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/LeetCode-kshitij86123343-informational?style=social&logo=leetcode&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Codeforces-akane86-informational?style=social&logo=codeforces&logoColor=black&Color=black&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Codechef-klondike123-informational?style=social&logo=codechef&logoColor=black&Color=black&color=2bbc8a)<br/>
 
 
 
